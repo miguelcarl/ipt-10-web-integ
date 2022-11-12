@@ -1,0 +1,17 @@
+{
+    "name": "miguelcarl/test",
+    "autoload": {
+        "psr-4": {
+            "Guzzlehttp\\Guzzle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguelcarl",
+            "email": "miguelcarlbasilio19@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
